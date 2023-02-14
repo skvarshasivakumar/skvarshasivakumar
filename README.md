@@ -137,7 +137,7 @@
 </ul>
 </details>
 
-### Follow me on
+### Find me online on
 
 <p align="left">
 <a href="https://www.linkedin.com/in/varsha-s-k-9694501bb/" target="_blank">
@@ -148,6 +148,8 @@
 </a> &nbsp;&nbsp;
 <a href="https://sk-varsha-sivakumar-profile.on.drv.tw/my%20portfolio/">
 <img align="center" | Portfolio" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
-</a> 
+</a> &nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCL5LOXnw3biI2AYbdf6yWsg">
+<img align="center" | Youtube" width="30px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />
+</a>                                                                                                                 
 </p>
----
