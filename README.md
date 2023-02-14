@@ -2,10 +2,10 @@
 
 :black_heart: Coding for Purpose | :heart: Developing for Passion | :blue_heart: Engineering for Profession | :green_heart: Music for Excursion.
 
-- :earth_americas: I'm from TamilNadu - India,
-- :😍: Areas of Interest: Python Development and Full stack Web Development,
-- :violin: I love to play violin and keyboard,
-- :🤹🏻‍♀️: Innovator | Intrapreneur | Adaptive learner | Solution Seeker
+- :earth_americas: I'm from TamilNadu - India
+- 😍 Areas of Interest: Python Development and Full stack Web Development
+- :violin: I love to play violin and keyboard
+- 🤹🏻‍♀️ Innovator | Intrapreneur | Adaptive learner | Solution Seeker
 
 
 ### 💻 Techstack
