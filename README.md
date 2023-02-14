@@ -136,3 +136,18 @@
 
 </ul>
 </details>
+
+### Follow me on
+
+<p align="left">
+<a href="https://www.linkedin.com/in/varsha-s-k-9694501bb/" target="_blank">
+  <img align="center" | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/skvarshasivakumar">
+<img align="center" | Github" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/git.png" />
+</a> &nbsp;&nbsp;
+<a href="https://sk-varsha-sivakumar-profile.on.drv.tw/my%20portfolio/">
+<img align="center" | Portfolio" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+</a> 
+</p>
+---
