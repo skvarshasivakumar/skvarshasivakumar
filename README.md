@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/GIT-80558C.svg?logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Version%20Control-pink.svg?logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-85586F.svg?logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Basics%20of%20Command%20Line-E9D5CA.svg?logoColor=white'/>
+<img src="https://img.shields.io/badge/Basics%20of%20Command%20Line-E9D5CA.svg?logoColor=white"/>
 </p>
 
 ### 👉 Hosting Services
