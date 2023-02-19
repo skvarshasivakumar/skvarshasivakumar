@@ -36,7 +36,6 @@
 <img src="https://img.shields.io/badge/Node.js-2B3A55.svg?logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-B9F3E4.svg?logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-F99417.svg?logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-13005A.svg?logo=nextdotjs&logoColor=white"/>
 </p>
 
 ### 👉 Python Frameworks and Libraries
