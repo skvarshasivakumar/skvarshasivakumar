@@ -1,6 +1,6 @@
 ### Hey there this is Varsha S K here ✌🏻!
 
-<div align="center">
+<div>
 	<img src="https://github.com/skvarshasivakumar/webster/blob/main/img/pacman.svg" width="200" height="200">  
 </div>
 
