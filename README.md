@@ -142,6 +142,22 @@
 </ul>
 </details>
 
+<!-- split -->
+
+<details>
+<summary>Projects Learnt from instructor Angela</summary>
+<ul>
+
+<li><a href="https://skvarshasivakumar.github.io/sean-halphin-clone-varsha-s-k/" target="_blank">UI designer Sean Halphin Clone Varsha S K</a></li>
+<li><a href="https://skvarshasivakumar.github.io/Tindog-varsha-s-k/" target="_blank">Tindog Varsha S K</a></li>
+<li><a href="https://skvarshasivakumar.github.io/simon-varsha-sk/" target="_blank">Simon Game</a></li>
+<li><a href="https://varshask-blog-website.onrender.com/" target="_blank">Blog Website</a></li>
+<li><a href="https://skvarshasivakumar.github.io/diceroll/" target="_blank">Dice Game</a></li>
+<li><a href="https://skvarshasivakumar.github.io/drum_kit/" target="_blank">Drum Kit</a></li>
+
+</ul>
+</details>
+
 ### Find me online on
 
 <p align="left">
