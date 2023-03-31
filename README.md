@@ -174,3 +174,12 @@
 <img align="center" | Youtube" width="30px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />
 </a>                                                                                                                 
 </p>
+
+## Github Stats 📈
+<!-- status codes -->
+<a href="https://github.com/skvarshasivakumar">
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=skvarshasivakumar&show_icons=true&theme=tokyonight" alt="Varsha S K github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skvarshasivakumar&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+</a>
+
