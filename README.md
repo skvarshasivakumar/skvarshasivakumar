@@ -2,7 +2,7 @@
 
 <div>
 	<img src="https://github.com/skvarshasivakumar/webster/blob/main/img/pacman.svg" width="200" height="200"> 
-	  <img src="https://github.com/skvarshasivakumar/webster/blob/main/img/jerry.gif" width="200" height="200" border-radius="20%"/>
+	  <img src="https://github.com/skvarshasivakumar/webster/blob/main/img/jerry.gif" width="200" height="200" border-radius: 50%;/>
 </div>
 
 ### About me 
