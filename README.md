@@ -1,7 +1,10 @@
 ### Hey there this is Varsha S K here ✌🏻!
 
 <div>
-	<img src="https://github.com/skvarshasivakumar/webster/blob/main/img/pacman.svg" width="200" height="200">  
+	<img src="https://github.com/skvarshasivakumar/webster/blob/main/img/pacman.svg" width="200" height="200"> 
+	<h1 align="center">
+	  <img src="https://github.com/skvarshasivakumar/webster/blob/main/img/jerry.gif" />
+	</h1>
 </div>
 
 ### About me 
