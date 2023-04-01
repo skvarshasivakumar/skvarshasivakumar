@@ -2,7 +2,12 @@
 
 <div>
 	<img src="https://github.com/skvarshasivakumar/webster/blob/main/img/pacman.svg" width="200" height="200"> 
-	  <img src="https://github.com/skvarshasivakumar/webster/blob/main/img/jerry.gif" width="200" height="200" border-radius: 50%;/>
+	![Avatar](https://github.com/skvarshasivakumar/webster/blob/main/img/jerry.gif#avatar)
+	 img[src$="#avatar"] {
+  display:inline;
+  border-radius: 50%;
+  max-width: 50%;
+}
 </div>
 
 ### About me 
