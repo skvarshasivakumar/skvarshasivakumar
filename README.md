@@ -186,5 +186,5 @@
 
 
 
-### Thank you for taking time and looking into my profile
+### Thank you for taking time and looking into my profile 🙏🏻😊
 <img src="https://github.com/skvarshasivakumar/webster/blob/main/img/jerrycirclecrop.gif" width="200" height="200"> 
