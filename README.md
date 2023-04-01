@@ -1,12 +1,9 @@
 ### Hey there this is Varsha S K here ✌🏻!
 
 <div>
-	<img src="https://github.com/skvarshasivakumar/webster/blob/main/img/pacman.svg" width="200" height="200"> 
-	![Avatar](https://github.com/skvarshasivakumar/webster/blob/main/img/jerry.gif#avatar)
-	 img[src$="#avatar"] {
-  display:inline;
-  border-radius: 50%;
-  max-width: 50%;
+	<img src="https://github.com/skvarshasivakumar/webster/blob/main/img/pacman.svg" width="200" height="200" style="border-radius":50%;> 
+	<img src="https://github.com/skvarshasivakumar/webster/blob/main/img/jerry.gif" width="200" height="200" style="border-radius":50%;> 
+	<!--https://github.com/skvarshasivakumar/webster/blob/main/img/jerry.gif -->
 }
 </div>
 
