@@ -2,7 +2,6 @@
 
 <div>
 	<img src="https://github.com/skvarshasivakumar/webster/blob/main/img/pacman.svg" width="200" height="200">
-}
 </div>
 
 ### About me 
