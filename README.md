@@ -182,7 +182,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=skvarshasivakumar&show_icons=true&theme=tokyonight" alt="Varsha S K github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skvarshasivakumar&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 </a>
-<p align="center">
+<p>
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=skvarshasivakumar&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
 </p>
 
