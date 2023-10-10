@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/python-2B3A55.svg?logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-1C3B55.svg?logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-628E70.svg?logoColor=white"/>
+img src="https://img.shields.io/badge/Motoko.svg?logoColor=green"/>
 </p>
 
 ### 👉 Web Technologies
